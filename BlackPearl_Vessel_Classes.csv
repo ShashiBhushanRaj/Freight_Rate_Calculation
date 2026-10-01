@@ -1,0 +1,12 @@
+Class,Size / Scantling (DWT),Typical LOA (m),Typical Max. Breadth (m),Typical Max. Draught (m)
+Small,"10,000",~115,~18,<10
+Handysize,"10-35,000",130-150,~26,~10
+Handymax,"35-55,000",150-200,32.2,10-12
+Panamax,"55-80,000",190-225,28-32.2,12-14
+Supramax,"60,000",190-200,32.2,11-13
+Capesize,"80-200,000",230-270,43-45,17
+Kamsarmax,"~84,000",229,32.2,14.4
+Dunkirkmax,"~175,000",289,45,~16
+Very large bulk carrier,">200,000",>270,45-60,15-20
+Newcastlemax (AUS),"~205,000",299,47-50,16.1
+Chinamax,"~400,000",~360,~65,22-23
